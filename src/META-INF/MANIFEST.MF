@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Project-name: dynamic-chain-agent-demo
+Premain-Class: com.heiden.MyAgent
+Built-By: heiden
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Project-version: 1.0-SNAPSHOT
+Created-By: Apache Maven 3.6.3
+Build-Jdk: 1.8.0_231
+Boot-Class-Path: javassist-3.18.1-GA.jar
